@@ -17,5 +17,5 @@ body {
     left: 50%;
     top: 50%;
     border-radius: 0.6em;
-    box-shadow: 0 0.9em 2.8em rgba(red, green, blue, alpha); <!-- confused.com -->
+    box-shadow: 0 0.9em 2.8em rgba(red, green, blue, alpha);
 }
