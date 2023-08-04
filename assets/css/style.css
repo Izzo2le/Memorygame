@@ -42,6 +42,7 @@ game-container {
     justify-content: center;
     border: 4px solid #000000;
     transition: transform 0.7s ease-out;
+    backface-visibility: hidden;
 }
 .card-before
 background-color: #B8BC86;
