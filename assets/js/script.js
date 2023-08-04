@@ -105,7 +105,16 @@ cards.forEach((card) => {
             let secondCardValue = card.getAttribute
             ("data-card-value");
             if(firstCard == secondCardValue) {
-                
+                firstCard.classList.add("matched");
+                secondCard.classList.add("matched");
+
+                firstCard = false;
+
+                winCount += 1;
+                if (winCount == Math.floor(cardValues.length / 2)) {
+                    
+                }
+
             }
         }
     }
