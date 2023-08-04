@@ -23,4 +23,19 @@ game-container {
     position: relative;
     width: 100%;
     display: grid;
+    gap: 0.6em;
 }
+.card-container {
+    position: relative;
+    width: 6.2em;
+    height: 6.2em;
+    cursor: pointer;
+}
+.card-before,
+.card-after {
+    position: absolute;
+    border-radius: 5px;
+}
+.card-before
+background-color: #B8BC86;
+font-size: 2.8en
