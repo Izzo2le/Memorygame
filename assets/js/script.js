@@ -84,3 +84,6 @@ const matrixGenerator = (cardValues, size = 4) => {
     </div>
     ';
 }
+
+gameContainer.style.gridTemplateColumns = 'repeat()
+{size},auto)';
