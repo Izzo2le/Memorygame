@@ -44,6 +44,18 @@ game-container {
     transition: transform 0.7s ease-out;
     backface-visibility: hidden;
 }
-.card-before
+.card-before {
 background-color: #B8BC86;
 font-size: 2.8en
+font-weight: 600;
+}
+.card-after {
+    background-color: #ffffff;
+    transform: rotateY('180deg');
+}
+.card-container.flipped.card-before {
+    transform: rotateY('180deg');
+}
+.card-container.flipped.card-after {
+    transform: rotateY('0deg');
+}
