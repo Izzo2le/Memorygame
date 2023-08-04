@@ -94,6 +94,17 @@ cards.forEach((card) => {
         if (!card.classList.contains("matched")) {
             card.classList.add("flipped");
             if(!firstCard){
+                firstCard = card;
+                firstCardValue = card.getAttribute
+                ("data-card-value");
+            }
+        }
+        else{
+            movesCounter();
+            secondCard = card;
+            let secondCardValue = card.getAttribute
+            ("data-card-value");
+            if(firstCard == secondCardValue) {
                 
             }
         }
