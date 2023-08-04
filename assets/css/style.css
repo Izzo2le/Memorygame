@@ -8,7 +8,7 @@ body {
     background-color: #ee4d7c;
 }
 .wrapper{
-    box-sizing: border-box;
+    box-sizing: content-box;
     border: 26.87em;
     padding: 2.5em 3em;
     background-color: #FFD1DC;
