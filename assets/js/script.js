@@ -26,3 +26,12 @@ let seconds = 0.
 minutes = 0;
 let movesCount = 0.
 winCount = 0;
+
+const timeGenerator = () => {
+    seconds += 1;
+
+    if (seconds >= 60) {
+        minutes += 1;
+        seconds =0;
+    }
+};
