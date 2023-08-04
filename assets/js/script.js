@@ -57,4 +57,20 @@ const generateRandom = (size = 4) => {
     size = (size * size) / 2;
 
     for(let i =0; i < size;i++)
+    const randomIndex = Math.floor(Math.random() * 
+    tempArray.length);
+    cardValues.push(tempArray[randomIndex]);
+    tempArray.splice(randomIndex, 1);
+}
+return cardValues;
+};
+
+const matrixGenerator = (cardValues, size = 4) => {
+    gameContainer.innerHTML = "";
+    cardValues = [...cardValues, ...cardValues];
+
+    cardValues.sort(() => Math.random() - 0.5);
+    for(let i=0; i<size*size;i++){
+        
+    }
 }
