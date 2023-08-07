@@ -31,6 +31,9 @@ game-container {
     height: 6.2em;
     cursor: pointer;
 }
+.controls-container {
+    
+}
 .card-before,
 .card-after {
     position: absolute;

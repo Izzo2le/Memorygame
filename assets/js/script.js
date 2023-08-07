@@ -146,6 +146,16 @@ startButton.addEventListener("click", () => {
     initializer();
 });
 
+stopButton.addEventListener(
+    "click",
+    (stopGame = () => {
+        controls.classList.remove("hide");
+        stopButton.classList.add("hide");
+        startButton.classList.remove("hide");
+        clearInterval(interval);
+    })
+);
+
 const initializer = () => {
     result.innerText ="";
 }
