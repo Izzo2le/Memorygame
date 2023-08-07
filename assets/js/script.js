@@ -98,26 +98,36 @@ cards.forEach((card) => {
                 firstCardValue = card.getAttribute
                 ("data-card-value");
             }
-        }
-        else{
-            movesCounter();
-            secondCard = card;
-            let secondCardValue = card.getAttribute
-            ("data-card-value");
-            if(firstCard == secondCardValue) {
-                firstCard.classList.add("matched");
-                secondCard.classList.add("matched");
-
+            else{
+                movesCounter();
+                secondCard = card;
+                let secondCardValue = card.getAttribute
+                ("data-card-value");
+                if(firstCard == secondCardValue) {
+                    firstCard.classList.add("matched");
+                    secondCard.classList.add("matched");
+    
+                    firstCard = false;
+    
+                    winCount += 1;
+                    if (winCount == Math.floor(cardValues.length / 2)) {
+                        result.innerHTML = '<h2>You Won</h2>';
+                        stopGame();
+                    }
+                } else }
+                let [tempFirst, tempSecond] = [firstCard, secondCard];
                 firstCard = false;
-
-                winCount += 1;
-                if (winCount == Math.floor(cardValues.length / 2)) {
-                    
+                secondCard = false;
+                let delay = setTimeout(() => { 
+                    tempFirst.classList.remove("flipped");
+                    tempSecond.classList.remove("flipped");
+    
+                }, 900);
+    
                 }
-
             }
         }
-    }
-})
-    
+       
+    });
 });
+];
