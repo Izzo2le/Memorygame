@@ -131,3 +131,17 @@ cards.forEach((card) => {
     });
 });
 ];
+
+startButton.addEventListener("click", () => {
+    movesCount = 0;
+    time = 0;
+
+    controls.classList.add("hide");
+    stopButton.classList.remove("hide");
+    startButton.classList.add("hide");
+
+    interval = setInterval(timeGenerator, 1000);
+
+    moves.innerHTML = '<span>Moves</span> ${movesCount}';
+    initializer();
+});
