@@ -145,3 +145,7 @@ startButton.addEventListener("click", () => {
     moves.innerHTML = '<span>Moves</span> ${movesCount}';
     initializer();
 });
+
+const initializer = () => {
+    result.innerText ="";
+}
