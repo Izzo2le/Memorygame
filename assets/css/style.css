@@ -25,14 +25,18 @@ game-container {
     display: grid;
     gap: 0.6em;
 }
+.stats-container {
+    text-align: right;
+    margin-bottom: 1.2em;
+}
+.stats-container span {
+    font-weight: 600;
+}
 .card-container {
     position: relative;
     width: 6.2em;
     height: 6.2em;
     cursor: pointer;
-}
-.controls-container {
-    
 }
 .card-before,
 .card-after {
