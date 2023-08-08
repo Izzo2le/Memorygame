@@ -11,16 +11,16 @@ let firstcard = false;
 let secondcard = false;
 
 const items = [{ name: "effy", image: "effy.png"};
-{name:"khashoggi", image: "khashoggi.png"};
-{ name: "emma1", image: "emma1.png"};
-{name:"emma2", image: "emma2.png"};
-{ name: "emma3", image: "emma3.png"};
-{name:"rebecca", image: "rebecca.png"};
-{ name: "bianca", image: "bianca.png"};
-{name:"georgia", image: "georgia.png"};
-{ name: "bertie", image: "bertie.png"};
-{name:"elsie", image: "elsie.png"};
-]
+{name : "khashoggi", image : "khashoggi.png"};
+{name: "emma1", image: "emma1.png"};
+{name : "emma2", image : "emma2.png"};
+{name : "emma3", image : "emma3.png"};
+{name : "rebecca", image : "rebecca.png"};
+{name : "bianca", image : "bianca.png"};
+{name : "kofi", image : "kofi.png"};
+{name : "lab", image : "lab.png"};
+{name : "bertie", image : "bertie.png"};
+
 
 let seconds = 0.
 minutes = 0;
@@ -38,9 +38,9 @@ const timeGenerator = () => {
 let secondsValue = seconds < 10 ? '0${seconds}.' :
 seconds;
 let minutesValue = minutes < 10 ? '0${minutes}' :
-minutes:
-timeValue.innerHTML = '<span>Time:</span>$
-{minutesValue}:${secondsValue}';
+minutes
+timeValue.innerHTML = '<span>Time:</span>$ {minutesValue} : $ { secondsValue }
+';
 
 };
 
@@ -63,7 +63,7 @@ const generateRandom = (size = 4) => {
     tempArray.splice(randomIndex, 1);
 }
 return cardValues;
-};
+
 
 const matrixGenerator = (cardValues, size = 4) => {
     gameContainer.innerHTML = "";
@@ -81,12 +81,10 @@ const matrixGenerator = (cardValues, size = 4) => {
     <div class="card-after">
         <img src=${cardValues[i].image}"
         class="image"/></div>
-    </div>
-    ';
-}
+    </div>';'
 
-gameContainer.style.gridTemplateColumns = 'repeat()
-{size},auto)';
+
+gameContainer.style.gridTemplateColumns = 'repeat() {size,auto)';
 
 cards = document.querySelectorAll(".card-container");
 cards.forEach((card) => {
