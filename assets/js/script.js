@@ -13,7 +13,7 @@ let secondCard = false;
 const items = [
   { name: "effy", image: "assets/images/effy.png" },
   { name: "khashoggi", image: "assets/images/khashoggi.png" },
-  { name: "emma1", image: "assets/images/emma1.png" },
+  { name: "emma2", image: "assets/images/emma2.png" },
   { name: "rebecca", image: "assets/images/rebecca.png" },
   { name: "bianca", image: "assets/images/bianca.png" },
   { name: "kofi", image: "assets/images/kofi.png" },
