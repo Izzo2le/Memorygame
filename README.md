@@ -43,3 +43,19 @@ Features left to implement
 
 My memory game is currently just in its first stages, some features I would like to of added to increase the sites usability include:
 Adding in different levels e.g easy, medium, hard; with this I could have changed the timing on how long the cards are turned over for so it works for different attention spans. 
+
+Testing
+
+I have tested my website using dev tools. I also asked family members to test my website on their devices this was a mix of IOS and Android. (ANY ISSUES FOUND?) 
+
+Functionality test 
+
+I made sure to test my website as I was going along, any errors which showed up, I would check over the code to correct and get it up and running again. 
+
+Implementation 
+
+This is to ensure the user understands the point of my page and how the game is meant to work. 
+
+Test
+
+I will be testing my website aswell as family and friends, this will be carried out by playing the game multiple times, double clicking, fast clicking on the cards so as I can detect any problems. 
