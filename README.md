@@ -34,3 +34,12 @@ The game area
 
 This section allows the user to play my memory game. The cards are easily seen and have a timer of 3 seconds each to allow the users to be able to clearly see the image before it turns over again. The game board consists of 16 cards, containing 8 pairs of images to overturn. 
 The user is then able to play the game by clicking on a card and then choosing another to match this card. If the card does not match, it will turn back over and allow the user to keep playing until all cards have been found. 
+
+The rules section
+
+The rules section tells the user how to play the game and a step by step to follow to achieve all the cards. With this being a user game, they do have the option after finishing the game to try achieve the cards in less tries, there is no limit on retries. The rules have been put on the first page before getting to the game page, in order to allow the user to see these before entering the game, this will allow them an idea of how the game is going to play. 
+
+Features left to implement 
+
+My memory game is currently just in its first stages, some features I would like to of added to increase the sites usability include:
+Adding in different levels e.g easy, medium, hard; with this I could have changed the timing on how long the cards are turned over for so it works for different attention spans. 
