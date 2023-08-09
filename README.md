@@ -78,7 +78,7 @@ Once the game is finished a page comes up to confirm the game is over, the finis
 
 The test passed with issues at first which I then corrected, it now runs efficiently to good standard. 
 
-Responsiveness 
+### **Responsiveness** 
 
 USE https://ui.dev/amiresponsive
 
@@ -86,9 +86,11 @@ Computer version
 
 Phone/tablet version 
 
-Lighthouse
+### **Lighthouse**
 
-Deployment
+### **Bugs/Fixes and Unfixed Bugs**
+
+## **Deployment**
 
 This game was deployed to GitHub pages, the steps on how I did this are:
 
@@ -97,7 +99,7 @@ Navigate down to the pages tab which is on the left hand side of the page.
 Under the subheading ‘branch’ select from the ‘branch’ drop down menus click ‘main’ and then save.
 Once you have selected the main branch, the page will automatically refresh and a subheading will appear to let you know the deployment was successful. 
 
-Validator testing 
+### **Validator Testing** 
 
 HTML - https://validator.w3.org/nu/#textarea
 
@@ -105,13 +107,13 @@ CSS - https://jigsaw.w3.org/css-validator/validator
 
 JAVASCRIPT - https://jshint.com/
 
-Technology used 
+## **Technology Used**
 
 I used HTML, JavaScript and CSS3 to create my memory game. 
 
-Credits 
+## **Credits**
 
-Content 
+### **Content**
 
 Font - google fonts (find)
 Colour scheme - https://icolorpalette.com/color/rose-pink
@@ -119,6 +121,6 @@ Started my game using the Love Maths tutorial on codeinstitute
 Richard Wells - my coding tutor who helped me to understand JavaScript a bit better and helped my implement my ideas into a way I could create my game. Could not of completed this without him!
 Used a YouTube video to help me build my game but implemented my own code and variation - https://youtu.be/dqqxkrKhfS4
 
-Media 
+### **Media** 
 
 Images were sourced from friends and family’s dogs including my own. 
