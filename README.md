@@ -106,3 +106,13 @@ JAVASCRIPT - https://jshint.com/
 Technology used 
 
 I used HTML, JavaScript and CSS3 to create my memory game. 
+
+Credits 
+
+Content 
+
+Font - google fonts (find)
+Colour scheme - https://icolorpalette.com/color/rose-pink
+Started my game using the Love Maths tutorial on codeinstitute
+Richard Wells - my coding tutor who helped me to understand JavaScript a bit better and helped my implement my ideas into a way I could create my game. Could not of completed this without him!
+Used a YouTube video to help me build my game but implemented my own code and variation - https://youtu.be/dqqxkrKhfS4
