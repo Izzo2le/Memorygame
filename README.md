@@ -101,9 +101,9 @@ Once you have selected the main branch, the page will automatically refresh and 
 
 ### **Validator Testing** 
 
-HTML - https://validator.w3.org/nu/#textarea
+HTML - used https://validator.w3.org/nu/#textarea - the results came back saying there was no errors or warnings to show.
 
-CSS - https://jigsaw.w3.org/css-validator/validator
+CSS - i used https://codebeautify.org/cssvalidate?utm_content=cmp-true it came back telling me i had some errors, these errors were to tell me that things weren't in alphabetical order, however if i did change this it would ruin my code and game altogether,
 
 JAVASCRIPT - https://jshint.com/
 
