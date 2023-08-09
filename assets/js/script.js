@@ -123,7 +123,7 @@ const matrixGenerator = (cardValues, size = 4) => {
             let delay = setTimeout(() => {
               tempFirst.classList.remove("flipped");
               tempSecond.classList.remove("flipped");
-            }, 900);
+            }, 2000);
           }
         }
       }
