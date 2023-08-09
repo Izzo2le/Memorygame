@@ -71,3 +71,7 @@ The first round of my memory game played successful, all the cards turned over f
 Can the game be reset correctly?
 
 Once the game is finished a page comes up to confirm the game is over, the finished time and how many goes the user played to get all pairs correctly. It allows the user to play again which takes them to play again. 
+
+Verdict
+
+The test passed with issues at first which I then corrected, it now runs efficiently to good standard. 
