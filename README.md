@@ -14,3 +14,8 @@ As the game creator I wanted to be able to create a fun and easy to follow game.
 As the game creator I wanted to show users a fun way to play the memory card game with the use of puppies.
 As the owner I wanted to create a easy to follow points system which shows the timer and how many goes the user has had to find each pair.
 As the owner I wanted to create a game which introduces people to JavaScript in a colourful exciting way. 
+
+Colour scheme 
+
+I chose to go for a pink colour scheme due to it representing fun, liveliness and femininity. I aim for my website to be geared towards all genders but I wanted to introduce females to the idea of coding and how it is a universal language which can complement creativity..
+I used a pink paw print background for my main page and a dark rose pink () for the game page with a lighter pink () for my game board. 
