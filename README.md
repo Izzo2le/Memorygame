@@ -116,3 +116,7 @@ Colour scheme - https://icolorpalette.com/color/rose-pink
 Started my game using the Love Maths tutorial on codeinstitute
 Richard Wells - my coding tutor who helped me to understand JavaScript a bit better and helped my implement my ideas into a way I could create my game. Could not of completed this without him!
 Used a YouTube video to help me build my game but implemented my own code and variation - https://youtu.be/dqqxkrKhfS4
+
+Media 
+
+Images were sourced from friends and family’s dogs including my own. 
