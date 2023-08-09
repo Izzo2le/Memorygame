@@ -75,3 +75,13 @@ Once the game is finished a page comes up to confirm the game is over, the finis
 Verdict
 
 The test passed with issues at first which I then corrected, it now runs efficiently to good standard. 
+
+Responsiveness 
+
+USE https://ui.dev/amiresponsive
+
+Computer version 
+
+Phone/tablet version 
+
+Lighthouse
