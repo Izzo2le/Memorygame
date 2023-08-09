@@ -19,3 +19,13 @@ Colour scheme
 
 I chose to go for a pink colour scheme due to it representing fun, liveliness and femininity. I aim for my website to be geared towards all genders but I wanted to introduce females to the idea of coding and how it is a universal language which can complement creativity..
 I used a pink paw print background for my main page and a dark rose pink () for the game page with a lighter pink () for my game board. 
+
+Features 
+
+In this section it will give details on my Memory game and it will explain the features and how they are achieved. 
+
+Existing features 
+
+The score area - 
+
+The score area is located right above my game cards, it allows the user to be able to see how many tries they have had already to locate all the pairs. I chose to have the game area shown here as it is easy to keep an eye on but not too bold to distract the user whilst they are playing. 
