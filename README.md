@@ -94,3 +94,11 @@ Go to GitHub depositories and find ‘Memorygame’ navigate to the settings tab
 Navigate down to the pages tab which is on the left hand side of the page.
 Under the subheading ‘branch’ select from the ‘branch’ drop down menus click ‘main’ and then save.
 Once you have selected the main branch, the page will automatically refresh and a subheading will appear to let you know the deployment was successful. 
+
+Validator testing 
+
+HTML - https://validator.w3.org/nu/#textarea
+
+CSS - https://jigsaw.w3.org/css-validator/validator
+
+JAVASCRIPT - https://jshint.com/
