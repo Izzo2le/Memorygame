@@ -29,3 +29,8 @@ Existing features
 The score area - 
 
 The score area is located right above my game cards, it allows the user to be able to see how many tries they have had already to locate all the pairs. I chose to have the game area shown here as it is easy to keep an eye on but not too bold to distract the user whilst they are playing. 
+
+The game area 
+
+This section allows the user to play my memory game. The cards are easily seen and have a timer of 3 seconds each to allow the users to be able to clearly see the image before it turns over again. The game board consists of 16 cards, containing 8 pairs of images to overturn. 
+The user is then able to play the game by clicking on a card and then choosing another to match this card. If the card does not match, it will turn back over and allow the user to keep playing until all cards have been found. 
