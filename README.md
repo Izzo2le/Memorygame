@@ -17,22 +17,22 @@ To begin my ‘Memory Game’ I created an initial plan, I drew out my layout an
 - As the owner I wanted to create a easy to follow points system which shows the timer and how many goes the user has had to find each pair.
 - As the owner I wanted to create a game which introduces people to JavaScript in a colourful exciting way. 
 
-Colour scheme 
+### **Colour Scheme**
 
 I chose to go for a pink colour scheme due to it representing fun, liveliness and femininity. I aim for my website to be geared towards all genders but I wanted to introduce females to the idea of coding and how it is a universal language which can complement creativity..
 I used a pink paw print background for my main page and a dark rose pink () for the game page with a lighter pink () for my game board. 
 
-Features 
+## **Features**  
 
 In this section it will give details on my Memory game and it will explain the features and how they are achieved. 
 
-Existing features 
+### **Existing Features** 
 
-The score area - 
+- __The Score Area__
 
 The score area is located right above my game cards, it allows the user to be able to see how many tries they have had already to locate all the pairs. I chose to have the game area shown here as it is easy to keep an eye on but not too bold to distract the user whilst they are playing. 
 
-The game area 
+- __The Game Area__ 
 
 This section allows the user to play my memory game. The cards are easily seen and have a timer of 3 seconds each to allow the users to be able to clearly see the image before it turns over again. The game board consists of 16 cards, containing 8 pairs of images to overturn. 
 The user is then able to play the game by clicking on a card and then choosing another to match this card. If the card does not match, it will turn back over and allow the user to keep playing until all cards have been found. 
