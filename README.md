@@ -102,3 +102,7 @@ HTML - https://validator.w3.org/nu/#textarea
 CSS - https://jigsaw.w3.org/css-validator/validator
 
 JAVASCRIPT - https://jshint.com/
+
+Technology used 
+
+I used HTML, JavaScript and CSS3 to create my memory game. 
