@@ -13,7 +13,7 @@
     <link rel="stylesheet" href="assets/css/style.css" />
   </head>
   <body>
-    <div class="wrapper">
+    <div id="playGame" class="game wrapper">
       <div class="stats-container">
         <div id="moves-count"></div>
         <div id="time"></div>
@@ -21,9 +21,45 @@
       <div class="game-container"></div>
       <button id="stop" class="hide">Stop Game</button>
     </div>
-    <div class="controls-container">
+
+    <div id="menu" class="wrapper">
+      <h1>Memory Game</h1>
+      <button id="start">Play Game</button>
+      <button id="leaderboard-btn">Leaderboard</button>
+      <button id="instructions-btn">Instructions</button>
+    </div>
+
+    <div id="leaderboard" class="wrapper leaderboard hide">
+      <h1>Leaderboard</h1>
+      <div class="leaderboard-container"></div>
+      <button id="back">Back</button>
+    </div>
+
+    <div id="instructions" class="wrapper hide">
+      <h1>Instructions</h1>
+      <p>
+        The objective of the game is to find all the matching pairs of cards.
+        <br />
+        <br />
+        The game begins with all cards facing down. Click on a card to flip it
+        over and reveal the hidden symbol. Click on another card to flip it over
+        and reveal the hidden symbol. If the symbols match, the cards will
+        remain facing up. If the symbols do not match, the cards will flip back
+        over. The game is over when all the cards have been matched.
+      <button id="back2">Back</button>
+    </div>
+
+    <div id="endGame" class="wrapper game-over hide">
+      <h1>Game Over</h1>
       <p id="results"></p>
-      <button id="start">Start Game</button>
+
+      <form>
+        <label for="name">Enter your name:</label>
+        <input type="text" id="name" name="name" />
+        <button id="submit">Submit</button>
+      </form>
+
+      <button id="restart">Restart Game</button>
     </div>
 
     <script src="assets/js/script.js"></script>
