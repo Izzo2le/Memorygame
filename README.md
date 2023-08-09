@@ -37,44 +37,44 @@ The score area is located right above my game cards, it allows the user to be ab
 This section allows the user to play my memory game. The cards are easily seen and have a timer of 3 seconds each to allow the users to be able to clearly see the image before it turns over again. The game board consists of 16 cards, containing 8 pairs of images to overturn. 
 The user is then able to play the game by clicking on a card and then choosing another to match this card. If the card does not match, it will turn back over and allow the user to keep playing until all cards have been found. 
 
-The rules section
+- __The Rules section__
 
 The rules section tells the user how to play the game and a step by step to follow to achieve all the cards. With this being a user game, they do have the option after finishing the game to try achieve the cards in less tries, there is no limit on retries. The rules have been put on the first page before getting to the game page, in order to allow the user to see these before entering the game, this will allow them an idea of how the game is going to play. 
 
-Features left to implement 
+### **Features Left to Implement**
 
 My memory game is currently just in its first stages, some features I would like to of added to increase the sites usability include:
 Adding in different levels e.g easy, medium, hard; with this I could have changed the timing on how long the cards are turned over for so it works for different attention spans. 
 
-Testing
+## **Testing**
 
 I have tested my website using dev tools. I also asked family members to test my website on their devices this was a mix of IOS and Android. (ANY ISSUES FOUND?) 
 
-Functionality test 
+### **Functionality test** 
 
 I made sure to test my website as I was going along, any errors which showed up, I would check over the code to correct and get it up and running again. 
 
-Implementation 
+#### **Implementation**:
 
 This is to ensure the user understands the point of my page and how the game is meant to work. 
 
-Test
+#### **Test**:  
 
 I will be testing my website aswell as family and friends, this will be carried out by playing the game multiple times, double clicking, fast clicking on the cards so as I can detect any problems. 
 
-Did the buttons function correctly? 
+#### **Did the buttons function correctly?** 
 
 At the start of a new game the layout is all correct, the timer has started over and the scoreboard is showing ‘0’ moves made!
 
-Did the game play correctly? 
+#### **Did the game play correctly?**
 
 The first round of my memory game played successful, all the cards turned over for the same amount of time and then turned back unfolded. The correct pairs, paired.  I found through testing that after the first game the cards did glitch.
 
-Can the game be reset correctly?
+#### **Can the game be reset successfully?** 
 
 Once the game is finished a page comes up to confirm the game is over, the finished time and how many goes the user played to get all pairs correctly. It allows the user to play again which takes them to play again. 
 
-Verdict
+#### **Verdict:**  
 
 The test passed with issues at first which I then corrected, it now runs efficiently to good standard. 
 
