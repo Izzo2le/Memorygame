@@ -59,3 +59,15 @@ This is to ensure the user understands the point of my page and how the game is 
 Test
 
 I will be testing my website aswell as family and friends, this will be carried out by playing the game multiple times, double clicking, fast clicking on the cards so as I can detect any problems. 
+
+Did the buttons function correctly? 
+
+At the start of a new game the layout is all correct, the timer has started over and the scoreboard is showing ‘0’ moves made!
+
+Did the game play correctly? 
+
+The first round of my memory game played successful, all the cards turned over for the same amount of time and then turned back unfolded. The correct pairs, paired.  I found through testing that after the first game the cards did glitch.
+
+Can the game be reset correctly?
+
+Once the game is finished a page comes up to confirm the game is over, the finished time and how many goes the user played to get all pairs correctly. It allows the user to play again which takes them to play again. 
