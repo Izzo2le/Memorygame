@@ -103,9 +103,9 @@ Once you have selected the main branch, the page will automatically refresh and 
 
 HTML - used https://validator.w3.org/nu/#textarea - the results came back saying there was no errors or warnings to show.
 
-CSS - i used https://codebeautify.org/cssvalidate?utm_content=cmp-true it came back telling me i had some errors, these errors were to tell me that things weren't in alphabetical order, however if i did change this it would ruin my code and game altogether,
+CSS - i used https://codebeautify.org/cssvalidate?utm_content=cmp-true it came back telling me i had some errors, these errors were to tell me that things weren't in alphabetical order, however if i did change this it would ruin my code and game altogether.
 
-JAVASCRIPT - https://jshint.com/
+JAVASCRIPT - I used https://jshint.com/ to validate my Javascript code, it came back telling me there were  68 warnings, these consisted of 'const' being available on different lines.
 
 ## **Technology Used**
 
