@@ -4,8 +4,11 @@
   box-sizing: border-box;
   font-family: "Poppins", sans-serif;
 }
-body {
-  background-color: #f400a3;
+.controls-container {
+  background-image: url("../images/pawprint\ background.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
 }
 .wrapper {
   box-sizing: content-box;
