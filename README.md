@@ -20,7 +20,7 @@ To begin my ‘Memory Game’ I created an initial plan, I drew out my layout an
 ### **Colour Scheme**
 
 I chose to go for a pink colour scheme due to it representing fun, liveliness and femininity. I aim for my website to be geared towards all genders but I wanted to introduce females to the idea of coding and how it is a universal language which can complement creativity..
-I used a pink paw print background for my main page and a dark rose pink () for the game page with a lighter pink () for my game board. 
+I used a pink paw print background for my main page and a dark rose pink (#f400a3) for the game page with a lighter pink (#ff80d4) for my game board. 
 
 ## **Features**  
 
@@ -124,3 +124,4 @@ Used a YouTube video to help me build my game but implemented my own code and va
 ### **Media** 
 
 Images were sourced from friends and family’s dogs including my own. 
+background for website - https://nr1iphonewalls.blogspot.com/2018/06/pink-paw-print-wallpaper-for-iphone-and.html
