@@ -85,3 +85,12 @@ Computer version
 Phone/tablet version 
 
 Lighthouse
+
+Deployment
+
+This game was deployed to GitHub pages, the steps on how I did this are:
+
+Go to GitHub depositories and find ‘Memorygame’ navigate to the settings tab which is just above the green GitHub button.
+Navigate down to the pages tab which is on the left hand side of the page.
+Under the subheading ‘branch’ select from the ‘branch’ drop down menus click ‘main’ and then save.
+Once you have selected the main branch, the page will automatically refresh and a subheading will appear to let you know the deployment was successful. 
