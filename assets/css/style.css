@@ -27,6 +27,11 @@ body {
   display: grid;
   gap: 0.6em;
 }
+@media (max-width: 600px) {
+  .container {
+    flex-direction: column;
+  }
+}
 .stats-container {
   text-align: right;
   margin-bottom: 1.2em;
