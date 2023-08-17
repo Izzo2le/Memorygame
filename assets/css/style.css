@@ -5,7 +5,9 @@
   font-family: "Poppins", sans-serif;
 }
 body {
-  background-color: #f400a3;
+  background-image: url("../images/pawprint.png");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 .wrapper {
   box-sizing: content-box;
@@ -107,82 +109,35 @@ button {
   font-size: 1.8em;
   margin: 0.6em 0 1em 0;
 }
-
 .image {
   width: 100%;
   height: 100%;
 }
-/* Add a media query for mobile devices */
-@media only screen and (max-width: 767px) {
+
+.game-over {
+  padding: 1rem 0;
+}
+
+@media screen and (max-width: 600px) {
+  button {
+    padding: 1em 0.5em;
+  }
+
   .wrapper {
-    width: 100%;
-    padding: 1.5em;
-    border-radius: 0;
+    width: 75%;
+    padding: 2.5em 0.5em;
+  }
+
+  body {
+    background-repeat: repeat-y;
+  }
+
+  .card-container {
+    width: 4rem;
+    height: 4rem;
   }
 
   .game-container {
-    grid-template-columns: repeat(2, 1fr);
-    gap: 0.4em;
-  }
-
-  .stats-container {
-    margin-bottom: 0.8em;
-  }
-
-  .card-container {
-    width: 45%;
-    height: 0;
-    padding-bottom: 45%; /* Maintain aspect ratio for the cards */
-  }
-
-  .card-before,
-  .card-after {
-    border: 2px solid #000000;
-  }
-
-  .controls-container {
-    position: static;
-    background-color: transparent;
-  }
-
-  .controls-container button {
-    font-size: 1em;
-    box-shadow: none;
-  }
-
-  #stop {
-    font-size: 1em;
-    margin: 0.6em auto 0 auto;
-  }
-
-  #result h2 {
-    font-size: 2em;
-  }
-
-  #result h4 {
-    font-size: 1.5em;
-    margin: 0.4em 0 0.8em 0;
+    gap: 0.5em;
   }
 }
-
-/* Add a media query for tablet devices */
-@media only screen and (min-width: 768px) and (max-width: 1023px) {
-  .wrapper {
-    width: 35em;
-    padding: 2em 2.5em;
-  }
-
-  .card-container {
-    width: 30%;
-    height: 0;
-    padding-bottom: 30%; /* Maintain aspect ratio for the cards */
-  }
-}
-
-
-
-
-
-
-
-
