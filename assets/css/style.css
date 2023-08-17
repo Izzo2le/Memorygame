@@ -133,6 +133,30 @@ button {
   }
 
   .card-container {
+    width: 5rem;
+    height: 5rem;
+  }
+
+  .game-container {
+    gap: 0.5em;
+  }
+}
+
+@media screen and (max-width: 460px) {
+  button {
+    padding: 1em 0.5em;
+  }
+
+  .wrapper {
+    width: 75%;
+    padding: 2.5em 0.5em;
+  }
+
+  body {
+    background-repeat: repeat-y;
+  }
+
+  .card-container {
     width: 4rem;
     height: 4rem;
   }
