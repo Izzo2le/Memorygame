@@ -1,3 +1,12 @@
+# **Izzo2le - Memory Game**
+
+'Memory Game is a game which is designed to show how easily Javascript can be used when building a website. The website is targeted towards people of all ages and genders aswell as people who are wanting to understand concepts of javascript.
+
+Memory Game is a responsive and interactive game where users will partner up 8 cards which match and can see how many attempts they had and how long it took them via the statistics and timer up in the top right corner. There isn't a maximum amount of attempts, users can play until they have matched all the pairs.
+
+![alt text](docs/images/mygame.png)
+
+
 ## **Planning Stage**
 
 ### **Wireframe**
