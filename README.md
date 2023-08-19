@@ -4,8 +4,15 @@
 
 Memory Game is a responsive and interactive game where users will partner up 8 cards which match and can see how many attempts they had and how long it took them via the statistics and timer up in the top right corner. There isn't a maximum amount of attempts, users can play until they have matched all the pairs.
 
-![alt text](docs/images/mygame.png)
+![Responsive image](assets/images/responsive.png)
 
+## **Table of contents**
+1. [Planning Stage](#planning-stage)
+1. [Features](#features)
+1. [Testing](#testing)
+1. [Deployment](#deployment)
+1. [Technology Used](#technology-used)
+1. [Credits](#credits)
 
 ## **Planning Stage**
 
