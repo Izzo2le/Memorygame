@@ -50,6 +50,8 @@ In this section it will give details on my Memory game and it will explain the f
 
 The score area is located right above my game cards, it allows the user to be able to see how many tries they have had already to locate all the pairs. I chose to have the game area shown here as it is easy to keep an eye on but not too bold to distract the user whilst they are playing. 
 
+![leaderboard image](assets/images/leaderboard.PNG)
+
 - __The Game Area__ 
 
 This section allows the user to play my memory game. The cards are easily seen and have a timer of 3 seconds each to allow the users to be able to clearly see the image before it turns over again. The game board consists of 16 cards, containing 8 pairs of images to overturn. 
