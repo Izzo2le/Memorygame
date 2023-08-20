@@ -106,6 +106,10 @@ Computer version
 
 ![laptopcomputer image](assets/images/laptopcomputer.PNG)
 
+This is my testing on chrome devices, however when testing on microsoft edge the screen faulted, the background didn't fill the screen and my buttons were unaligned.
+
+![brokenscreen image](assets/images/brokenscreen.PNG)
+
 Phone/tablet version 
 
 ![tablet image](assets/images/tablet.PNG)
