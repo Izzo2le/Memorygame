@@ -86,7 +86,7 @@ I will be testing my website aswell as family and friends, this will be carried 
 
 #### **Did the buttons function correctly?** 
 
-At the start of a new game the layout is all correct, the timer has started over and the scoreboard is showing ‘0’ moves made!
+At the start of a new game the layout is all correct, the timer has started over and the scoreboard is showing ‘0’ moves made! So i made some changes and kept playing the game multiple times on multiple devices until i was able to fix the fault.
 
 #### **Did the game play correctly?**
 
@@ -102,11 +102,12 @@ The test passed with issues at first which I then corrected, it now runs efficie
 
 ### **Responsiveness** 
 
-USE https://ui.dev/amiresponsive
-
 Computer version 
 
 Phone/tablet version 
+
+![tablet image](assets/images/tablet.PNG)
+![mobile image](assets/images/mobile.PNG)
 
 ### **Lighthouse**
 
