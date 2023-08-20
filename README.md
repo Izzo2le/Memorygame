@@ -104,6 +104,10 @@ Phone/tablet version
 
 ### **Lighthouse**
 
+All the pages of this project have been tested using lighthouse, all the pages achieved a score above 80, however my progressive web app didn’t do aswell due to not meeting the installability requirements. I feel through testing my site using lighthouse I have been able to see big improvements which will help both improve this website and improve my knowledge for future projects. 
+
+- My SEO is the lowest scoring with 91 due to documents not having a meta description. 
+
 ### **Bugs/Fixes and Unfixed Bugs**
 
 ## **Deployment**
