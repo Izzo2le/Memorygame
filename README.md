@@ -4,7 +4,7 @@
 
 Memory Game is a responsive and interactive game where users will partner up 8 cards which match and can see how many attempts they had and how long it took them via the statistics and timer up in the top right corner. There isn't a maximum amount of attempts, users can play until they have matched all the pairs.
 
-![Responsive image](assets/images/responsive.png)
+![Responsive image](assets/images/responsive.PNG)
 
 ## **Table of contents**
 1. [Planning Stage](#planning-stage)
@@ -36,7 +36,9 @@ To begin my ‘Memory Game’ I created an initial plan, I drew out my layout an
 ### **Colour Scheme**
 
 I chose to go for a pink colour scheme due to it representing fun, liveliness and femininity. I aim for my website to be geared towards all genders but I wanted to introduce females to the idea of coding and how it is a universal language which can complement creativity..
-I used a pink paw print background for my main page and a dark rose pink (#f400a3) for the game page with a lighter pink (#ff80d4) for my game board. 
+I used a pink paw print background throughout my project which has a white background for the game area.
+
+![game image](assets/images/game.PNG)
 
 ## **Features**  
 
