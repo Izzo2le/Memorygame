@@ -61,6 +61,8 @@ The user is then able to play the game by clicking on a card and then choosing a
 
 The rules section tells the user how to play the game and a step by step to follow to achieve all the cards. With this being a user game, they do have the option after finishing the game to try achieve the cards in less tries, there is no limit on retries. The rules have been put on the first page before getting to the game page, in order to allow the user to see these before entering the game, this will allow them an idea of how the game is going to play. 
 
+![instructions image](assets/images/instructions.PNG)
+
 ### **Features Left to Implement**
 
 My memory game is currently just in its first stages, some features I would like to of added to increase the sites usability include:
