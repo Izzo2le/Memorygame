@@ -104,6 +104,8 @@ The test passed with issues at first which I then corrected, it now runs efficie
 
 Computer version 
 
+![laptopcomputer image](assets/images/laptopcomputer.PNG)
+
 Phone/tablet version 
 
 ![tablet image](assets/images/tablet.PNG)
